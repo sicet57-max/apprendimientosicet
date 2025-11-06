@@ -1,0 +1,6 @@
+# Archivo de secretos y contraseñas
+.streamlit/secrets.toml
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
